@@ -1,18 +1,18 @@
 import {
-  people01,
-  people02,
-  people03,
-  facebook,
-  instagram,
-  linkedin,
-  twitter,
   airbnb,
   binance,
   coinbase,
   dropbox,
+  facebook,
+  instagram,
+  linkedin,
+  people01,
+  people02,
+  people03,
   send,
   shield,
   star,
+  twitter,
 } from '../assets';
 
 export const navLinks = [
@@ -40,21 +40,21 @@ export const features = [
     icon: star,
     title: 'Rewards',
     content:
-      'The best credit cards offer some tantalizing combinations of promotions and prizes',
+      'The best NFT marketplace offer some tantalizing combinations of promotions and prizes',
   },
   {
     id: 'feature-2',
     icon: shield,
     title: '100% Secured',
     content:
-      'We take proactive steps make sure your information and transactions are secure.',
+      'Blockchain technologies allows the benefits of first-class security features.',
   },
   {
     id: 'feature-3',
     icon: send,
-    title: 'Balance Transfer',
+    title: 'Liquidity',
     content:
-      'A balance transfer credit card can save you a lot of money in interest charges.',
+      'The absence of standardized regulation, so they actively invest in digital assets',
   },
 ];
 
@@ -88,17 +88,17 @@ export const feedback = [
 export const stats = [
   {
     id: 'stats-1',
-    title: 'User Active',
-    value: '3800+',
+    title: 'Active Users',
+    value: '9800+',
   },
   {
     id: 'stats-2',
     title: 'Trusted by Company',
-    value: '230+',
+    value: '630+',
   },
   {
     id: 'stats-3',
-    title: 'Transaction',
+    title: 'Transactions',
     value: '$230M+',
   },
 ];

@@ -26,6 +26,7 @@
     #f09ded 42.04%,
     #eb7ddc 55.12%,
     #e65ce6 71.54%,
+    
     #cf33bf 100%
   );
   -webkit-background-clip: text;
@@ -136,5 +137,5 @@
 
 .white__gradient {
   background: rgba(255, 255, 255, 0.6);
-  filter: blur(75px);
+  filter: blur(200px);
 }

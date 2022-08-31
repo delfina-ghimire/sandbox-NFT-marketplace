@@ -1,5 +1,5 @@
 import React from 'react';
-import { Hero, Navbar } from './components';
+import { Business, Hero, Navbar, Stats } from './components';
 import styles from './style';
 
 
@@ -19,7 +19,8 @@ const App = () => (
 
     <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
-        Stats Business Billing CardDeal Testimonials Clients Click to Action
+        <Stats />
+        <Business /> Billing CardDeal Testimonials Clients Click to Action
         Footer
       </div>
     </div>
