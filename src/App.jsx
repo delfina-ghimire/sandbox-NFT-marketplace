@@ -1,8 +1,8 @@
 import React from 'react';
 import { Business, Hero, Navbar, Stats } from './components';
 import Billing from './components/Billing';
+import CardDeal from './components/CardDeal';
 import styles from './style';
-
 
 const App = () => (
   <div className='bg-primary w-full overflow-hidden'>
@@ -23,7 +23,7 @@ const App = () => (
         <Stats />
         <Business />
         <Billing />
-        CardDeal Testimonials Clients Click to Action Footer
+        <CardDeal /> Testimonials Clients Click to Action Footer
       </div>
     </div>
   </div>
