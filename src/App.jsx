@@ -1,5 +1,12 @@
 import React from 'react';
-import { Business, Hero, Navbar, Stats, Testimonials } from './components';
+import {
+  Business,
+  Hero,
+  Navbar,
+  Partners,
+  Stats,
+  Testimonials,
+} from './components';
 import Billing from './components/Billing';
 import CardDeal from './components/CardDeal';
 import styles from './style';
@@ -24,7 +31,8 @@ const App = () => (
         <Business />
         <Billing />
         <CardDeal />
-        <Testimonials /> Clients Click to Action Footer
+        <Testimonials />
+        <Partners /> Click to Action Footer
       </div>
     </div>
   </div>
