@@ -3,6 +3,8 @@ import {
   Billing,
   Business,
   CardDeal,
+  CTA,
+  Footer,
   Hero,
   Navbar,
   Partners,
@@ -32,7 +34,9 @@ const App = () => (
         <Billing />
         <CardDeal />
         <Testimonials />
-        <Partners /> Click to Action Footer
+        <Partners />
+        <CTA />
+        <Footer />
       </div>
     </div>
   </div>
