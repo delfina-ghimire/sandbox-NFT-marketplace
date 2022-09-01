@@ -1,14 +1,14 @@
 import React from 'react';
 import {
+  Billing,
   Business,
+  CardDeal,
   Hero,
   Navbar,
   Partners,
   Stats,
   Testimonials,
 } from './components';
-import Billing from './components/Billing';
-import CardDeal from './components/CardDeal';
 import styles from './style';
 
 const App = () => (
