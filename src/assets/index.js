@@ -24,6 +24,13 @@ import shield from "./Shield.svg";
 import star from './Star.svg';
 import twitter from './twitter.svg';
 
+import showcase01 from './showcase01.png';
+import showcase02 from './showcase02.png';
+import showcase03 from './showcase03.png';
+import showcase04 from './showcase04.png';
+import showcase05 from './showcase05.png';
+import showcase06 from './showcase06.png';
+
 export {
   airbnb,
   bill,
@@ -50,4 +57,10 @@ export {
   people01,
   people02,
   people03,
+  showcase01,
+  showcase02,
+  showcase03,
+  showcase04,
+  showcase05,
+  showcase06,
 };

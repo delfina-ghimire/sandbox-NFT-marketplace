@@ -11,6 +11,7 @@ import {
   Stats,
   Testimonials,
 } from './components';
+import Showcase from './components/Showcase';
 import styles from './style';
 
 const App = () => (
@@ -30,6 +31,7 @@ const App = () => (
     <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
         <Stats />
+        <Showcase/>
         <Business />
         <Billing />
         <CardDeal />

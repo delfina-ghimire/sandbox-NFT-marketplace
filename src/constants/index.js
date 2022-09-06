@@ -11,6 +11,12 @@ import {
   people03,
   send,
   shield,
+  showcase01,
+  showcase02,
+  showcase03,
+  showcase04,
+  showcase05,
+  showcase06,
   star,
   twitter,
 } from '../assets';
@@ -31,6 +37,63 @@ export const navLinks = [
   {
     id: 'clients',
     title: 'Clients',
+  },
+];
+
+export const showcase = [
+  {
+    img: showcase01,
+    id: 'showcase-1',
+    name: 'Angelic Blue Devil',
+    creator: 'Cute Devil Factory ',
+    desc: 'These cute devils will explode in your heart with fantastic art from the NFT collection.',
+    floor: '0.065ETH',
+    volume: '16.2K ETH',
+  },
+  {
+    img: showcase02,
+    id: 'showcase-2',
+    name: 'Synopsis Samurai',
+    creator: 'Wanderers',
+    desc: 'The greatest story in the metaverse — and you have got a lead role. So suit up, strap in, soar off. Your galactic odyssey awaits.',
+    floor: '0.095ETH',
+    volume: '34.2K ETH',
+  },
+  {
+    img: showcase03,
+    id: 'showcase-3',
+    name: 'Neo Monkey Genesis',
+    creator: 'Serandra Divinity ',
+    desc: 'This monkey will explode in your heart with fantastic art from the NFT collection.',
+    floor: '0.065ETH',
+    volume: '16.2K SOL',
+  },
+  {
+    img: showcase04,
+    id: 'showcase-4',
+    name: 'Turnip Turtles',
+    creator: 'Cyber Punks ',
+    desc: 'welcome to the official zero-fee marketplace for Turnip Turtles and osf art.',
+    floor: '0.065 SOL',
+    volume: '16.2K ETH',
+  },
+  {
+    img: showcase05,
+    id: 'showcase-5',
+    name: 'Turnip Turtles',
+    creator: 'Cyber Punks',
+    desc: 'Welcome to the official zero-fee marketplace for Turnip Turtles and osf art.',
+    floor: '0.095 SOL',
+    volume: '16.2K ETH',
+  },
+  {
+    img: showcase06,
+    id: 'showcase-6',
+    name: 'Neo Monkey Genesis',
+    creator: 'Serandra Divinity ',
+    desc: 'This monkey will explode in your heart with fantastic art from the NFT collection.',
+    floor: '0.235 ETH',
+    volume: '16.2K ETH',
   },
 ];
 
