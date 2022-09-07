@@ -8,10 +8,10 @@ import {
   Hero,
   Navbar,
   Partners,
+  Showcase,
   Stats,
   Testimonials,
 } from './components';
-import Showcase from './components/Showcase';
 import styles from './style';
 
 const App = () => (
