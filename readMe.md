@@ -36,9 +36,9 @@ This project was bootstrapped using [vite](https://vitejs.dev/)
 
 <a id='demo'/>
 
-## :link: View Live
+## :link: Demo
 
-[Click to see live Demo](#https://sandbox-nft.netlify.app/)
+[Click to see Live Demo](https://sandbox-nft.netlify.app/)
 
 
 
@@ -122,18 +122,4 @@ If you have any feedback, please reach out to me at
 
 
 
-bootstrapped with vite
-  
 
-  React folder structure
-  src>constants
-  * index.js - All the static texts in the website
-  
-  src>style.js
-  * Basic layout styles & text styles
-
-  src>components
-  All the resuable blocks of code
-
- src>components>index.js
- * it's gonna export all the components in single line for cleaner and readable code
